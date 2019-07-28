@@ -1,0 +1,23 @@
+{
+  "name": "phaser-tutorial",
+  "version": "1.0.0",
+  "description": "Prácticas del tutorial de Phaser 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantsalweb/phaser-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantsalweb/phaser-tutorial/issues"
+  },
+  "homepage": "https://github.com/fantsalweb/phaser-tutorial#readme",
+  "dependencies": {
+    "phaser": "^3.18.1"
+  }
+}
